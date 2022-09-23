@@ -1,0 +1,24 @@
+{
+  "name": "content-management-systems-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threewide/delaware-championship-weekend.git"
+  },
+  "author": "Justin Collver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threewide/delaware-championship-weekend/issues"
+  },
+  "homepage": "https://github.com/threewide/delaware-championship-weekend#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  }
+}
