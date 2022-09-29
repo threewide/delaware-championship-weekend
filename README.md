@@ -18,22 +18,22 @@ To Install and begin working on the Note Taker follow these easy steps:
 2. In the terminal enter: '<b>git clone delaware-championship-weekend</b>' to create a clone of the Employee Tracker
 3. In the terminal enter: '<b>code .</b>' to open the project in Visual Studios development environment
 
-![Installation](./public/assets/images/installation.png)
+![Installation](./assets/images/installation.png)
 
 5. The project will still need to install the required node packages. In the terminal window change directories into the newly cloned Note Taker Project by entering: '<b>cd delaware-championship-weekend</b>' 
 6. Now that you are in the correct directory install the node packages with: '<b>npm i</b>'.
 
-![npm Installation](./public/assets/images/npm-installation.png)
+![npm Installation](./assets/images/npm-installation.png)
 
 ## Usage
 
 To run the application open the project folder in the terminal
-Enter the command 'npm start'
+Enter the command '<b>npm start</b>'
 
 ## Credits
 
-Rich Widtmann [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-Course Gitlab [Instructor Demo: Git](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-FT-05-2022-U-LOLC/-/tree/main/01-HTML-Git-CSS/01-Activities/03-Ins_Git)
+Rich Widtmann [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)<br>
+Course Gitlab [Instructor Demo: Git](https://utoronto.bootcampcontent.com/utoronto-bootcamp/UTOR-VIRT-FSF-FT-05-2022-U-LOLC/-/tree/main/01-HTML-Git-CSS/01-Activities/03-Ins_Git)<br>
 Choose a License [MIT License Template](https://choosealicense.com/licenses/mit/)
 
 ## License
